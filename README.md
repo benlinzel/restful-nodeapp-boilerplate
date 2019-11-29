@@ -1,4 +1,4 @@
-# restful-node-boilerplate
+# restful-nodeapp-boilerplate
 Boilerplate RESTful Node app with Database and Admin UI  
 Stands up a mongodb database, starts a nodejs application which connects to it, and spins up an admin interface for the database with minimal configuration.  
 
